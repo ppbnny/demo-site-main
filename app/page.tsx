@@ -17,7 +17,7 @@ export default function Home() {
 							Hugh Henne on <span className='text-green-600'>Solana</span>{" "}
 						</h1>
 						<p className='lg:text-lg max-w-prose text-muted-foreground pb-8 text-md'>
-							the The Meme Mogul is here to stay and party hard
+							the Meme Mogul is here to stay and party hard
 						</p>
 						<Tweet />
 					</div>
